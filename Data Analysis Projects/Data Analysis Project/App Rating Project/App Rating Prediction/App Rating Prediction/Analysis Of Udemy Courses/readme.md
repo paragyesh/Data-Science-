@@ -1,4 +1,5 @@
-Udemy-courses-data-analysis
+###Udemy-courses-data-analysis
+
 This repository contains the data analytics insights of the Udemy courses datasets of 4 selective major domains.
 
 This data is taken from the Kaggle website. The link is below. https://www.kaggle.com/andrewmvd/udemy-courses This dataset includes 3683 courses in 4 subjects/domains (Business Finance, Graphic Design, Musical Instruments and Web Design) from Udemy. Udemy is a massive online open course (MOOC) platform that offers both free and paid courses. Anybody can create a course, a business model by which allowed Udemy to have hundreds of thousands of courses. Nowadays, the demand for online courses and digital learning are rising. And, more number of students, teachers, and even professionals are learning from online course platforms, like Udemy, Coursera and et cetera. So, to understand the course enrollment in Udemy platform, this data analysis is performed.
