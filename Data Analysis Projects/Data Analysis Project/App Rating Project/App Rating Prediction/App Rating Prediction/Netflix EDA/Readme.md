@@ -1,1 +1,1 @@
-just to write sosme thig
+Netflix EDA
